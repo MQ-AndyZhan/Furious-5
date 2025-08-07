@@ -3,8 +3,16 @@ public class Names {
 		System.out.println("This group consists of:");
 		// Put your signature function on the below line!
 		System.err.println(("Austin Blencowe 47666021"));
+		isThisTwo(5);
 		PrintHarrisSig();
 		// Put your signature function on the above line!
+	}
+
+	public static boolean isThisTwo(int t){
+		if(int n != 2 ){
+			return false;
+		}
+		else return true;
 	}
 	
 	public static void PrintHarrisSig() {
