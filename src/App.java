@@ -1,9 +1,15 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-    }
-
-    public void printName() {
-        System.out.println("Hi, Im Andy.");
-    }
+	public static void main(String[] Args) {
+		System.out.println("This group consists of:");
+		// Put your signature function on the below line!
+		System.err.println(("Austin Blencowe 47666021"));
+		PrintHarrisSig();
+		// Put your signature function on the above line!
+	}
+	
+	public static void PrintHarrisSig() {
+		System.out.println(".--.     /\\                ____");
+		System.out.println("'--'    /__\\    (^._.^)~ <(o.o )>");
+	}
+	
 }
