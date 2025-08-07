@@ -9,7 +9,8 @@ public class Names {
 	}
 
 	public static boolean isThisTwo(int t){
-		if(int n != 2 ){
+		int n = t;
+		if(n != 2 ){
 			return false;
 		}
 		else return true;
