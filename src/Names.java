@@ -3,9 +3,9 @@ public class Names {
 		System.out.println("This group consists of:");
 		// Put your signature function on the below line!
 		System.err.println(("Austin Blencowe 47666021"));
+		System.out.println("Shoa Akiyama 48188891");
 		isThisTwo(5);
 		PrintHarrisSig();
-		System.out.println("Shoa Akiyama 48188891");
 		// Put your signature function on the above line!
 	}
 
